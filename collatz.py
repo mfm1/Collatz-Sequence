@@ -1,7 +1,7 @@
 """
     This program works based on the Collatz Sequence
     It devides the number given by the user untill it is no 
-    more divisible ( i.e the number is devided untill it is equal to 1)
+    more divisible ( i.e the number is divided untill it is equal to 1)
 """
 
 def collatz(number):
